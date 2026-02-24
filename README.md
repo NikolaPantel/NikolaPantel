@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>I'm Nikola, AI/ML Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Belgrade, Serbia</b>. </p>
+<p>I'm Nikola, AI/ML Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Belgrade, Serbia</b>. </ br> A passionate full stack developer specializing in modern frameworks such as React, Next.js, Node.js, and Django for building fast, scalable, and responsive web and mobile applications. Hands-on experience designing, building, and deploying AI agent systems, LLM-powered applications, and conversational AI in production environments.<</p>
 
 ---
 
