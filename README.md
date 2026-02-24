@@ -39,10 +39,10 @@
 </p>
 
 ### Collaboration 🤝
-* 🧠  I'm always learning more about web development
-* 🤝  I'm open to collaborating on new projects ideas
-* 🎯  My goal is to use technology to build practical, high-quality solutions that make a real impact.
-* ⚡  I enjoy collaboration and I’m always ready to contribute, support others, and share what I know.
+* 💡 Constantly exploring new ideas and advancing my expertise in web technologies
+* 🚀 Open to partnering on ambitious and innovative project concepts
+* 🎯 Focused on creating reliable, high-impact solutions that solve real problems
+* 🌱 Driven by teamwork, mentorship, and contributing wherever I can make a difference
 
 ### Contact info 📫
 <p>
