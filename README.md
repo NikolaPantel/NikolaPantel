@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>I'm Nikola, AI/ML Software Engineer from <img src="https://cdn.cdnlogo.com/logos/f/94/flag-of-serbia.svg" width="13"/> <b>Belgrade, Serbia</b>. <br> A passionate Software Engineer specializing in modern frameworks such as React, Next.js, Node.js, and Django for building fast, scalable, and responsive web and mobile applications. <br>Hands-on experience designing, building, and deploying AI agent systems, LLM-powered applications, and conversational AI in production environments.<</p>
+<p>I'm Nikola, AI/ML Software Engineer from <b>Belgrade, Serbia</b>. <br> <p align="center">A passionate Software Engineer specializing in modern frameworks such as React, Next.js, Node.js, and Django for building fast, scalable, and responsive web and mobile applications. <br>Hands-on experience designing, building, and deploying AI agent systems, LLM-powered applications, and conversational AI in production environments.</p> </p>
 
 ---
 
@@ -41,8 +41,8 @@
 #### I love being able to use the best of technology to help people's lives.
 * 🧠  I'm always learning more about web development
 * 🤝  I'm open to collaborating on new projects ideas
-* 🎯  Goal: Deliver the best of technology to everyone
-* ⚡   Fun fact: I thrive on collaboration - always ready to help, mentor, or contribute where it counts.
+* 🎯  My goal is to use technology to build practical, high-quality solutions that make a real impact.
+* ⚡  I enjoy collaboration and I’m always ready to contribute, support others, and share what I know.
 
 ### Contact info 📫
 <p>
