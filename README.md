@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Nikola, AI/ML Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Belgrade, Serbia</b>. </p>
+<p>I'm Nikola, AI/ML Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Belgrade, Serbia</b>. </p>
 <h3>Things I code with</h3>
 <p>
 <!-- Full-Stack Core -->
@@ -28,13 +28,29 @@
 <img alt="Docker/Kubernetes" src="https://img.shields.io/badge/-Docker/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 <img alt="Terraform/Jenkins" src="https://img.shields.io/badge/-Terraform/Jenkins-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
 <img alt="CI/CD Pipelines" src="https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+
+<!-- Testing & Engineering Practices -->
+<img alt="TDD/PyTest" src="https://img.shields.io/badge/-TDD/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+<img alt="Secure Coding" src="https://img.shields.io/badge/-Secure_Coding-4B8BBE?style=flat-square&logo=security&logoColor=white" />
+<img alt="Agile/Scrum" src="https://img.shields.io/badge/-Agile/Scrum-FF9E0F?style=flat-square&logo=scrumalliance&logoColor=white" />
 </p>
+### Work experience 👔
+| Job Position                  | Company                    | Field                         | Work Period           |
+| ----------------------------- | -------------------------- | ----------------------------- | --------------------- |
+| **Head of AI Transformation** | **Social Discovery Group** | **LLM, Conversational AI**    | **2024-05 — 2025-03** |
+| Research Scientist Lead       | SberDevices                | LLM, GigaChat                 | 2023-04 — 2024-05     |
+| NLP Team Lead                 | SberDevices                | Search, Information Retrieval | 2022-10 — 2023-04     |
+| NLP Tech Lead                 | Sber AI Lab                | NLP, MLOps, Mentoring         | 2021-05 — 2022-10     |
+| Senior NLP Engineer           | Tinkoff AI Lab             | Virtual Assistant "Oleg"      | 2021-02 — 2021-04     |
+| Middle NLP Engineer           | MTS AI Lab                 | NER with Pseudo-Labeling      | 2020-05 — 2021-02     |
+| Junior Data Scientist         | Sberbank                   | ML with Tabular Data, CV      | 2018-07 — 2020-05     |
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p>
+  <a href="https://github.com/NikolaPantel" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nikola-pantelic-082277342" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nikolapantelic.me@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 3 March, 07:01 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+<h3>GitHub Status 😎</h3>
+![](https://komarev.com/ghpvc/?username=NikolaPantel&color=blueviolet)
 
