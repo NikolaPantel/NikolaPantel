@@ -38,16 +38,11 @@
 <img alt="Agile/Scrum" src="https://img.shields.io/badge/-Agile/Scrum-FF9E0F?style=flat-square&logo=scrumalliance&logoColor=white" />
 </p>
 
-### Work experience 👔
-| Job Position                  | Company                    | Field                         | Work Period           |
-| ----------------------------- | -------------------------- | ----------------------------- | --------------------- |
-| **Head of AI Transformation** | **Social Discovery Group** | **LLM, Conversational AI**    | **2024-05 — 2025-03** |
-| Research Scientist Lead       | SberDevices                | LLM, GigaChat                 | 2023-04 — 2024-05     |
-| NLP Team Lead                 | SberDevices                | Search, Information Retrieval | 2022-10 — 2023-04     |
-| NLP Tech Lead                 | Sber AI Lab                | NLP, MLOps, Mentoring         | 2021-05 — 2022-10     |
-| Senior NLP Engineer           | Tinkoff AI Lab             | Virtual Assistant "Oleg"      | 2021-02 — 2021-04     |
-| Middle NLP Engineer           | MTS AI Lab                 | NER with Pseudo-Labeling      | 2020-05 — 2021-02     |
-| Junior Data Scientist         | Sberbank                   | ML with Tabular Data, CV      | 2018-07 — 2020-05     |
+#### I love being able to use the best of technology to help people's lives.
+* 🧠  I'm always learning more about web development
+* 🤝  I'm open to collaborating on new projects ideas
+* 🎯  Goal: Deliver the best of technology to everyone
+* ⚡   Fun fact: I thrive on collaboration - always ready to help, mentor, or contribute where it counts.
 
 ### Contact info 📫
 <p>
