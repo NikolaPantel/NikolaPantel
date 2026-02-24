@@ -38,7 +38,7 @@
 <img alt="Agile/Scrum" src="https://img.shields.io/badge/-Agile/Scrum-FF9E0F?style=flat-square&logo=scrumalliance&logoColor=white" />
 </p>
 
-#### I love being able to use the best of technology to help people's lives.
+### Collaboration 🤝
 * 🧠  I'm always learning more about web development
 * 🤝  I'm open to collaborating on new projects ideas
 * 🎯  My goal is to use technology to build practical, high-quality solutions that make a real impact.
