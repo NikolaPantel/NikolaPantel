@@ -51,8 +51,3 @@
   <a href="mailto:nikolapantelic.me@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-### GitHub Status 😎
-
-
-![](https://komarev.com/ghpvc/?username=NikolaPantel&color=blueviolet)
-
