@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
 <p align="center">I'm Nikola, AI/ML Software Engineer from <b>Belgrade, Serbia</b>. <br> <p align="center">A passionate Software Engineer specializing in modern frameworks such as React, Next.js, Node.js, and Django for building fast, scalable, and responsive web and mobile applications. <br>Hands-on experience designing, building, and deploying AI agent systems, LLM-powered applications, and conversational AI in production environments.</p> </p>
