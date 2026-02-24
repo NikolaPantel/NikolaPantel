@@ -2,7 +2,10 @@
 
 
 <p>I'm Nikola, AI/ML Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Belgrade, Serbia</b>. </p>
-<h3>Things I code with</h3>
+
+---
+
+### Skills 🛠️
 <p>
 <!-- Full-Stack Core -->
 <img alt="JavaScript/TypeScript" src="https://img.shields.io/badge/-JavaScript/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -34,6 +37,7 @@
 <img alt="Secure Coding" src="https://img.shields.io/badge/-Secure_Coding-4B8BBE?style=flat-square&logo=security&logoColor=white" />
 <img alt="Agile/Scrum" src="https://img.shields.io/badge/-Agile/Scrum-FF9E0F?style=flat-square&logo=scrumalliance&logoColor=white" />
 </p>
+
 ### Work experience 👔
 | Job Position                  | Company                    | Field                         | Work Period           |
 | ----------------------------- | -------------------------- | ----------------------------- | --------------------- |
@@ -45,12 +49,15 @@
 | Middle NLP Engineer           | MTS AI Lab                 | NER with Pseudo-Labeling      | 2020-05 — 2021-02     |
 | Junior Data Scientist         | Sberbank                   | ML with Tabular Data, CV      | 2018-07 — 2020-05     |
 
-<h3>Where to find me</h3>
+### Contact info 📫
 <p>
   <a href="https://github.com/NikolaPantel" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nikola-pantelic-082277342" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nikolapantelic.me@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-<h3>GitHub Status 😎</h3>
+
+### GitHub Status 😎
+
+
 ![](https://komarev.com/ghpvc/?username=NikolaPantel&color=blueviolet)
 
