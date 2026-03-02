@@ -1,7 +1,14 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p align="center">I'm Nikola, AI/ML Software Engineer from <b>Belgrade, Serbia</b>. 
+<p align="center">
+I'm Nikola, an AI/ML and Full-Stack Software Engineer based in <b>Belgrade, Serbia</b>.<br><br>
+
+I build practical machine learning systems and scalable backend services. My work usually involves AI-powered applications, data-driven features, and full-stack development.<br><br>
+
+I'm currently open to new opportunities and interesting projects.<br>
+Feel free to reach out if you'd like to collaborate or discuss ideas.
+</p>
   
 ---
 
