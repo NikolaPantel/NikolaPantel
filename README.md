@@ -4,9 +4,8 @@
 <p align="center">
 I'm Nikola, an AI/ML and Full-Stack Software Engineer based in <b>Belgrade, Serbia</b>.<br>
 
-I build practical machine learning systems and scalable backend services. My work usually involves AI-powered applications, data-driven features, and full-stack development.
-I'm currently open to new opportunities and interesting projects.
-Feel free to reach out if you'd like to collaborate or discuss ideas.
+<p align="center">I build practical machine learning systems and scalable backend services. My work usually involves AI-powered applications, data-driven features, and full-stack development.
+I'm currently open to new opportunities and interesting projects. Feel free to reach out if you'd like to collaborate or discuss ideas.</p>
 </p>
   
 ---
