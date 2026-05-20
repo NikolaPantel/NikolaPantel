@@ -52,7 +52,10 @@ I'm currently open to new opportunities and interesting projects. <br>Feel free 
 ### Contact info 📫
 <p>
   <a href="https://github.com/NikolaPantel" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nikola-pantelic-082277342" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nikolapantelic.me@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- <a href="https://www.linkedin.com/in/nikola-pantelic-082277342" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+  <a href="mailto:pantelicn369@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+381628677804" target="_blank">
+    <img alt="Phone" src="https://img.shields.io/badge/Phone-%2B381628677804-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
